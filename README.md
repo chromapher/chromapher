@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 📫 How to reach me: ziyn.contact@proton.me
+- 📫 How to reach me: ziyn.mail@proton.me
 
 <!--
 **ziyn254k/ziyn254k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
